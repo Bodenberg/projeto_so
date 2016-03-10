@@ -9,8 +9,8 @@ Assim que ele Inicializar aparecerá uma tela chamada "**Oracle VM VirtualBox Ge
 
 ######Siga o passo a abaixo para iniciar a configuração da Maquina Virtual:
 
-_Passo_
-__Clique no botão 'Novo'.__
+1. Passo
+ *Clique no botão 'Novo'
 
-_Passo_
-__De um nome para a sua maquina__
+ 2. Passo_
+ *De um nome para a sua maquina
