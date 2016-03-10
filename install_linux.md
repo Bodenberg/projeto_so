@@ -7,3 +7,10 @@ Com o software instalado, basta inicia-lo.
 
 Assim que ele Inicializar aparecerá uma tela chamada "**Oracle VM VirtualBox Gerenciador**".
 
+######Siga o passo a abaixo para iniciar a configuração da Maquina Virtual:
+
+_Passo_
+__Clique no botão 'Novo'.__
+
+_Passo_
+__De um nome para a sua maquina__
