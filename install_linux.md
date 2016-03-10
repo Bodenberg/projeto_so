@@ -1,1 +1,2 @@
-test
+# Instalação do Sistema Linux na Maquina Virtual (Oracle Virtual Box)
+### Antes de começar primeiro vamos baixar a .iso (http://www.slitaz.org/pt/) e o software da Oracle o Virtual Box (http://www.oracle.com/technetwork/pt/server-storage/virtualbox/downloads/index.html)
