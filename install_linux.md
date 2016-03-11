@@ -9,13 +9,18 @@ Assim que ele Inicializar aparecerá uma tela chamada "**Oracle VM VirtualBox Ge
 
 ######Siga o passo a abaixo para iniciar a configuração da Maquina Virtual:
 
-1. Passo
+1. Passo:
  * Clique no botão 'Novo';
 
-2. Passo
+2. Passo:
  * De um nome para a sua maquina, no segundo campo (chamado Tipo) selecione 'Linux' e no terceiro campo (chamado de Versão) selecione 'Others Linux (32bits)', clique em proximo;
  
-3. Passo
+3. Passo:
  * Na seleção da memoria, de a ele 512mb, clique em proximo;
  
-4. 
+4. Passo:
+ * No Disco Rigido, selecione Criar um novo disco disco virtual, clique em criar e de a ele 60gb;
+ * No tipo de Disco Rigido selecione a opção VDI (VirtualBox Disk Image);
+ * No Armazenamento de disco rigido selecione dinâmicamente alocado, clique em criar;
+ 
+***
