@@ -10,7 +10,12 @@ Assim que ele Inicializar aparecerá uma tela chamada "**Oracle VM VirtualBox Ge
 ######Siga o passo a abaixo para iniciar a configuração da Maquina Virtual:
 
 1. Passo
- *Clique no botão 'Novo'
+ * Clique no botão 'Novo';
 
- 2. Passo_
- *De um nome para a sua maquina
+2. Passo
+ * De um nome para a sua maquina, no segundo campo (chamado Tipo) selecione 'Linux' e no terceiro campo (chamado de Versão) selecione 'Others Linux (32bits)', clique em proximo;
+ 
+3. Passo
+ * Na seleção da memoria, de a ele 512mb, clique em proximo;
+ 
+4. 
